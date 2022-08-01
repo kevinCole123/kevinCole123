@@ -11,6 +11,4 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dubey.abhinav76@gmail.com)
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)<br>
-Whether you are looking for an Ecommerce solution, Marketing Automation tool, Payment Gateway solution or VOIP solution to take your business to the next level our indepth guides can help.
-
-[software costs is for you](https://softwarecosts.com/)
+Whether you are looking for an Ecommerce solution, Marketing Automation tool, Payment Gateway solution or VOIP solution to take your business to the next level our indepth guides can help. [software costs is for you](https://softwarecosts.com/)
